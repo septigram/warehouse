@@ -1,4 +1,14 @@
-# マニュアル 3Dconnexion® SpaceMouse Enterprise（私訳版）
+# マニュアル 3Dconnexion® SpaceMouse Enterprise
+
+## LICENSE
+
+```
+本資料は、3Dconnexion社が https://3dconnexion.com/manuals/spacemouse-enterprise/en/Manual_3Dconnexion-SpaceMouse-Enterprise_EN.pdf で公開しているマニュアルを簡易的に翻訳したもので、内容の正確性、網羅性は保証しない。
+
+Copyright (C) 2026 3Dconnexion
+
+この翻訳物に関しての権利一切は3Dconnexion社に帰する。
+```
 
 ![image01](images/image01.png)
 
